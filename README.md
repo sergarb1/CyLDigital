@@ -7,7 +7,7 @@ Tenéis disponible para descarga las siguientes versiones:
 - Android (APK): https://github.com/sergarb1/CyLDigital/raw/master/CyLDigital.apk
 - PC Windows (32 bits) https://github.com/sergarb1/CyLDigital/raw/master/CyLDigital-win32.zip
 - PC Windows (64 bits) https://github.com/sergarb1/CyLDigital/raw/master/CyLDigital-win64.zip
-- PC Linux (32 bits) https://github.com/sergarb1/CyLDigital/raw/master/CyLDigitalL-linux32.zip
+- PC Linux (32 bits) https://github.com/sergarb1/CyLDigital/raw/master/CyLDigital-linux32.zip
 - PC Linux (64 bits) https://github.com/sergarb1/CyLDigital/raw/master/CyLDigital-linux64.zip
 
 Por razones de tamaño, la version para MacOS se divide en dos ficheros ZIP
